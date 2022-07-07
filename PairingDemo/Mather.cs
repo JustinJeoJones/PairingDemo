@@ -18,5 +18,15 @@ namespace PairingDemo
         {
             return x - y;
         }
+        //takes in 2 doubles, multiplys them then returns
+        public double multiplyer(double x, double y)
+        {
+            return x * y;
+        }
+        //takes in 2 doubles, divider them then returns
+        public double divider(double x, double y)
+        {
+            return x / y;
+        }
     }
 }
