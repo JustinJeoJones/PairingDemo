@@ -1,0 +1,15 @@
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\PairingDemo.exe
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\PairingDemo.deps.json
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\PairingDemo.runtimeconfig.json
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\PairingDemo.dll
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\ref\PairingDemo.dll
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\bin\Debug\net6.0\PairingDemo.pdb
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.AssemblyInfo.cs
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.dll
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\ref\PairingDemo.dll
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.pdb
+C:\Users\Josh\Desktop\PairingDemo\PairingDemo\obj\Debug\net6.0\PairingDemo.genruntimeconfig.cache
